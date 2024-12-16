@@ -128,7 +128,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Arrays.cpp" />
-    <ClCompile Include="Exercise_01.cpp" />
+    <ClCompile Include="Intro.cpp" />
+    <ClCompile Include="User_Input.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
