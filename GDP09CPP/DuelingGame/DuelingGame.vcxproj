@@ -130,6 +130,7 @@
     <ClCompile Include="Arrays.cpp" />
     <ClCompile Include="Intro.cpp" />
     <ClCompile Include="User_Input.cpp" />
+    <ClCompile Include="Wk1_Exercises.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
