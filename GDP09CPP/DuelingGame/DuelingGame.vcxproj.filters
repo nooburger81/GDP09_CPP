@@ -13,19 +13,43 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Week2_GDP09">
+      <UniqueIdentifier>{8dab14c0-a388-439d-964b-68820784bde9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Week1_GDP09">
+      <UniqueIdentifier>{89a90185-f26a-49bf-86e9-c8a281fba1e7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Intro.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Arrays.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Week1_GDP09</Filter>
+    </ClCompile>
+    <ClCompile Include="Intro.cpp">
+      <Filter>Week1_GDP09</Filter>
     </ClCompile>
     <ClCompile Include="User_Input.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Week1_GDP09</Filter>
     </ClCompile>
     <ClCompile Include="Wk1_Exercises.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Week1_GDP09</Filter>
+    </ClCompile>
+    <ClCompile Include="Wk1_Solutions.cpp">
+      <Filter>Week1_GDP09</Filter>
+    </ClCompile>
+    <ClCompile Include="Functions.cpp">
+      <Filter>Week2_GDP09</Filter>
+    </ClCompile>
+    <ClCompile Include="Wk1_Solutions_Redo.cpp">
+      <Filter>Week1_GDP09</Filter>
+    </ClCompile>
+    <ClCompile Include="Conditionals.cpp">
+      <Filter>Week2_GDP09</Filter>
+    </ClCompile>
+    <ClCompile Include="Loops.cpp">
+      <Filter>Week2_GDP09</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayLoops.cpp">
+      <Filter>Week2_GDP09</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

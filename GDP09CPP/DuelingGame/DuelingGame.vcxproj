@@ -127,10 +127,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ArrayLoops.cpp" />
     <ClCompile Include="Arrays.cpp" />
+    <ClCompile Include="Conditionals.cpp" />
+    <ClCompile Include="Functions.cpp" />
     <ClCompile Include="Intro.cpp" />
+    <ClCompile Include="Loops.cpp" />
     <ClCompile Include="User_Input.cpp" />
     <ClCompile Include="Wk1_Exercises.cpp" />
+    <ClCompile Include="Wk1_Solutions.cpp" />
+    <ClCompile Include="Wk1_Solutions_Redo.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
