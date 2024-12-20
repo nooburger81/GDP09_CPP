@@ -51,5 +51,8 @@
     <ClCompile Include="ArrayLoops.cpp">
       <Filter>Week2_GDP09</Filter>
     </ClCompile>
+    <ClCompile Include="Wk2_Exercises.cpp">
+      <Filter>Week2_GDP09</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

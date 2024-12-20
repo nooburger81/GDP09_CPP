@@ -137,6 +137,7 @@
     <ClCompile Include="Wk1_Exercises.cpp" />
     <ClCompile Include="Wk1_Solutions.cpp" />
     <ClCompile Include="Wk1_Solutions_Redo.cpp" />
+    <ClCompile Include="Wk2_Exercises.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
